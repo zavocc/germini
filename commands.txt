@@ -1,0 +1,5 @@
+# A list of commands to be initialized from cogs directory
+admin
+fun
+voice
+genai
